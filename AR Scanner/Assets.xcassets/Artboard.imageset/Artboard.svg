@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="logo-apple-ar" transform="translate(212.000000, 162.000000)" stroke="#000000" stroke-width="50">
+            <polyline id="Path" stroke-linejoin="round" points="214.28125 50 300 0 385.71875 50"></polyline>
+            <line x1="300" y1="0" x2="300" y2="125" id="Path"></line>
+            <polyline id="Path" stroke-linejoin="round" points="385.71875 650 300 700 214.28125 650"></polyline>
+            <line x1="300" y1="700" x2="300" y2="575" id="Path"></line>
+            <polyline id="Path" stroke-linejoin="round" points="-1.42108547e-14 274.234375 -1.42108547e-14 175 83.046875 125.765625"></polyline>
+            <line x1="-1.42108547e-14" y1="175" x2="105.140625" y2="237.5" id="Path"></line>
+            <polyline id="Path" stroke-linejoin="round" points="600 425.765625 600 525 516.953125 574.234375"></polyline>
+            <line x1="600" y1="525" x2="494.859375" y2="462.5" id="Path"></line>
+            <polyline id="Path" stroke-linejoin="round" points="83.046875 575 -1.42108547e-14 525 -1.42108547e-14 425.765625"></polyline>
+            <line x1="-1.42108547e-14" y1="525" x2="104.125" y2="462.5" id="Path"></line>
+            <polyline id="Path" stroke-linejoin="round" points="516.953125 125.765625 600 175 600 274.234375"></polyline>
+            <line x1="600" y1="175" x2="494.859375" y2="237.5" id="Path"></line>
+            <polyline id="Path" points="300 450 300 350 385.71875 300"></polyline>
+            <line x1="300" y1="350" x2="214.28125" y2="300" id="Path"></line>
+        </g>
+    </g>
+</svg>

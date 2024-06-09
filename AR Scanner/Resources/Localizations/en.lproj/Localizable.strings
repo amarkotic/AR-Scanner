@@ -1,0 +1,7 @@
+"add.virtual.object" = "Add virtual object";
+"preview.scan" = "Preview the scan";
+"save" = "Save";
+"export" = "Export";
+"lidar.support.error" = "Your device doesn't have LiDAR sensors, which is why you won't be able to use all the functionalities. But don't worry, you can still add virtual objects.";
+"scan.anything" = "Scan anything";
+"interior.scan" = "Interior scan";
